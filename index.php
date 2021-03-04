@@ -315,22 +315,49 @@
                     <h1 class="sponsors__info">WSPIERAJĄ NAS</h1>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="sponsors__info-items">
-                        <div class="sponsors__info-img1"></div>
+	    <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="sponsors__info-items-text">
+			<div class="sponsors__info-description">dostawca wyposażenia warsztatu KNR</div>
+                        <a class="sponsors__info-img6" href="https://www.tme.eu/" target="_blank"></a>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="sponsors__info-items">
-                        <div class="sponsors__info-img2"></div>
+            </div>
+	    <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="sponsors__info-items-text">
+                        <a class="sponsors__info-img7" href="http://www.addit.pl/" target="_blank"></a>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="sponsors__info-items">
+                        <a class="sponsors__info-img1" href="https://botland.com.pl/pl/" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="sponsors__info-items">
+                        <a class="sponsors__info-img2" href="https://finnotech.com/" target="_blank"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="sponsors__info-items">
                         <div class="sponsors__info-img3"></div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="sponsors__info-items">
+                        <a class="sponsors__info-img4" href="https://f3dfilament.com" target="_blank"></a>
+                    </div>
+                </div>
+            </div>
+	    <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="sponsors__info-items">
+                        <div class="sponsors__info-img5"></div>
                     </div>
                 </div>
             </div>
