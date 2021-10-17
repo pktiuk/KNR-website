@@ -160,9 +160,11 @@
                             <h2 class="projects__titles">Selfie</h2>
                             <p class="projects__text">
                                 Samochód Autonomiczny „Selfie” projekt samochodu w skali 1:10, który przy pomocy wizji maszynowej lub lidaru i
-                                innych czujników porusza się po torze symulującym rzeczywisty ruch uliczny. Do sukcesu zespołu można zaliczyć
-                                pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie oraz dwukrotne szóste miejsce
-                                na zawodach Carolo – Cup w Niemczech w roku 2018 i 2019. Powstały już 4 wersje pojazdu, aktualnie powstaje piąta.
+                                innych czujników porusza się po torze symulującym rzeczywisty ruch uliczny. Do sukcesów zespołu można zaliczyć:
+                                <li>pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie</li>
+                                <li>Drugie miejsce na zawodach Carolo – Cup w Niemczech w roku 2020</li>
+                                <li>Pierwsze miejsce na zawodach Carolo – Cup w Niemczech w roku 2021</li>
+                                Powstały już 4 wersje pojazdu, aktualnie powstaje piąta.
                             </p>
                         </div>
                     </div>
