@@ -178,11 +178,13 @@
                         <div class="projects__info">
                             <h2 class="projects__titles">MelSon</h2>
                             <p class="projects__text">
-                                Robot humanoidalny „MelSon” jest to robot o 21. Stopniach swobody przypominający swoją sylwetką oraz ruchami człowieka,
-                                został on zbudowany z myślą o konkurencjach Humanoid Sprint i Humanoid Sumo na zawodach robotycznych. Do jego sukcesów można
-                                zaliczyć zajęcie I, II i III miejsca odpowiednio w kategoriach Humanoid Sprint, Freestyle i Humanoid Sumo na zawodach Sumo Challenge w Łodzi.
-                                Dodatkowo robot może być podłączony do kamery Kinect (używanej do interaktywnych gier video na konsoli Xbox), dzięki której potrafi
-                                dosyć dokładnie odwzorowywać ruchy człowieka.
+                                Melson to robot humanoidalny o 21 stopniach swobody. 
+                                Swoją sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje aż 19 wysokiej precyzji napędów. 
+                                Projekt powstał z myślą o konkurencjach takich jak Humanoid Sprint i Humanoid Sumo, 
+                                jednak stanowi też doskonałą podstawę do rozwoju naszych zainteresowań i pasji z dziedziny robotyki. 
+                                Do sukcesów Melsona można zaliczyć zajęcie 1 miejsca w kategorii „Humanoid Sprint” na zawodach Sumo Challenge w Łodzi, 
+                                czy 1 miejsca w kategorii „Humanoid Robot” na zawodach RoboChallenge w Rumunii. 
+                                Aktualnie nasz zespół pracuje nad konstrukcją kolejnych robotów, z którymi aspirujemy do udziału w zawodach robotycznej piłki nożnej RoboCup.
                             </p>
                         </div>
                     </div>
