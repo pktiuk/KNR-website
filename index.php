@@ -176,7 +176,7 @@
                 <div class="row">
                     <div class="col-lg-7 col-md-12 col-sm-12">
                         <div class="projects__info">
-                            <h2 class="projects__titles">MelSon</h2>
+                            <h2 class="projects__titles">Melson</h2>
                             <p class="projects__text">
                                 Melson to robot humanoidalny o 21 stopniach swobody. 
                                 Swoją sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje aż 19 wysokiej precyzji napędów. 
