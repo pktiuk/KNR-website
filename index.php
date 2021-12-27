@@ -333,24 +333,12 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="sponsors__info-items">
-                        <a class="sponsors__info-img1" href="https://botland.com.pl/pl/" target="_blank"></a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="sponsors__info-items">
-                        <a class="sponsors__info-img2" href="https://finnotech.com/" target="_blank"></a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="sponsors__info-items">
                         <div class="sponsors__info-img3"></div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="sponsors__info-items">
-                        <a class="sponsors__info-img4" href="https://f3dfilament.com" target="_blank"></a>
+                        <a class="sponsors__info-img1" href="https://botland.com.pl/pl/" target="_blank"></a>
                     </div>
                 </div>
             </div>
