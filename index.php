@@ -257,9 +257,6 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
                         <div class="contact__managment-position"><div class="contact__managment-position--enter">&nbsp;</div>Prezes</div>
-                        <div class="contact__managment-box">
-                            <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Jacek_Prokopczuk-prezes.jpg'; ?>"/>
-                        </div>
                         <div class="contact__managment-info">Kajetan Jonak</div>
                         <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> kajetan@jonak.org.pl
                         </div>
@@ -268,9 +265,6 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
                         <div class="contact__managment-position">Wiceprezes</div>
-                        <div class="contact__managment-box">
-                            <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Piotr_Mikula-wice_ds_promocji.jpg'; ?>"/>
-                        </div>
                         <div class="contact__managment-info">Paweł Kotiuk</div>
                         <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> pawel.kotiuk.stud@pw.edu.pl</div>
                     </div>
@@ -278,9 +272,6 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
                         <div class="contact__managment-position">Skarbnik</div>
-                        <div class="contact__managment-box">
-                            <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Lukasz_Majewski-skarbnik.jpg'; ?>"/>
-                        </div>
                         <div class="contact__managment-info">Cezary Łączek</div>
                         <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> cezarylaczek@gmail.com</div>
                     </div>
