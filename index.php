@@ -260,49 +260,36 @@
                         <div class="contact__managment-box">
                             <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Jacek_Prokopczuk-prezes.jpg'; ?>"/>
                         </div>
-                        <div class="contact__managment-info">Jacek Prokopczuk</div>
-                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> prokopczukjacek@gmail.com
+                        <div class="contact__managment-info">Kajetan Jonak</div>
+                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> kajetan@jonak.org.pl
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
-                        <div class="contact__managment-position">Wiceprezes ds. Promocji</div>
+                        <div class="contact__managment-position">Wiceprezes</div>
                         <div class="contact__managment-box">
                             <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Piotr_Mikula-wice_ds_promocji.jpg'; ?>"/>
                         </div>
-                        <div class="contact__managment-info">Piotr Mikuła</div>
-                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> p.mikula14@wp.pl</div>
+                        <div class="contact__managment-info">Paweł Kotiuk</div>
+                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> pawel.kotiuk.stud@pw.edu.pl</div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
-                        <div class="contact__managment-position">Wiceprezes ds. Finansowych</div>
+                        <div class="contact__managment-position">Skarbnik</div>
                         <div class="contact__managment-box">
                             <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Lukasz_Majewski-skarbnik.jpg'; ?>"/>
                         </div>
-                        <div class="contact__managment-info">Łukasz Majewski</div>
-                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> majewski1998@gmail.com</div>
+                        <div class="contact__managment-info">Cezary Łączek</div>
+                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> cezarylaczek@gmail.com</div>
                     </div>
                 </div>
-		<div class="col-lg-4 col-md-6 col-sm-6 col-6">
+		        <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
-                        <div class="contact__managment-position">Wiceprezes ds. Współpracy</div>
-                        <div class="contact__managment-box">
-                            <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Mucha_Damian-wice_ds_wspolpracy.jpg'; ?>"/>
-                        </div>
-                        <div class="contact__managment-info">Damian Mucha</div>
-                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> damian1.mucha@gmail.com</div>
-                    </div>
-                </div>
-		<div class="col-lg-4 col-md-6 col-sm-6 col-6">
-                    <div class="contact__managment-employee">
-                        <div class="contact__managment-position">Wiceprezes ds. Wydarzeń</div>
-                        <div class="contact__managment-box">
-                            <img class="contact__managment-img" src="<?php echo get_template_directory_uri() . '/css/Kamil_Jankowski_wice_ds_wydarzen.jpg'; ?>"/>
-                        </div>
-                        <div class="contact__managment-info">Kamil Jankowski</div>
-                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> kamiljankowski1999@gmail.com</div>
+                        <div class="contact__managment-position">Koordynator ds. Sponsoringu i Reklamy</div>
+                        <div class="contact__managment-info">Aleksandra Panufnik</div>
+                        <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> 01153151@pw.edu.pl</div>
                     </div>
                 </div>
             </div>
