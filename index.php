@@ -161,7 +161,7 @@
                             <p class="projects__text">
                                 Samochód Autonomiczny „Selfie” projekt samochodu w skali 1:10, który przy pomocy wizji maszynowej lub lidaru i
                                 innych czujników porusza się po torze symulującym rzeczywisty ruch uliczny. Do sukcesów zespołu można zaliczyć:
-                                <li>pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie</li>
+                                <li>Pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie</li>
                                 <li>Drugie miejsce na zawodach Carolo – Cup w Niemczech w roku 2020</li>
                                 <li>Pierwsze miejsce na zawodach Carolo – Cup w Niemczech w roku 2021</li>
                                 Powstały już 4 wersje pojazdu, aktualnie powstaje piąta.
@@ -256,7 +256,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6 col-6">
                     <div class="contact__managment-employee">
-                        <div class="contact__managment-position"><div class="contact__managment-position--enter">&nbsp;</div>Prezes</div>
+                        <div class="contact__managment-position">Prezes</div>
                         <div class="contact__managment-info">Kajetan Jonak</div>
                         <div class="contact__managment-infos"><i class="fa fa-envelope" aria-hidden="true"></i> kajetan@jonak.org.pl
                         </div>
